@@ -86,22 +86,9 @@ export const projects = [
   //   ],
   //   link: "https://job-portal-beta-coral.vercel.app/",
   // },
-  // {
-  //   id: 2,
-  //   title: "Anonymous message sending website",
-  //   des: "AskOnline is a Next.js-based web app enabling anonymous message sending via unique URLs.",
-  //   img: "/askOnline.png",
-  //   iconLists: [
-  //     "/next.svg",
-  //     "/tail.svg",
-  //     "/ts.svg",
-  //     "shadcn.svg",
-  //     "/mongodb.svg",
-  //   ],
-  //   link: "https://www.askonline.fun/",
-  // },
+
   {
-    id: 3,
+    id: 1,
     title: "vault-b: Digital Asset Storage with Blockchain Technology",
     des: "At vault-b, our mission is to revolutionize digital asset storage using cutting-edge blockchain technology. We are dedicated to providing secure, transparent, and decentralized solutions to safeguard your valuable digital assets.",
     img: "/vaultB.png",
@@ -118,7 +105,7 @@ export const projects = [
     link: "https://vault-b.netlify.app/",
   },
   {
-    id: 4,
+    id: 2,
     title: "VerifyIt - Fake Product Detection System",
     des: "Our platform enables users to easily check the authenticity of products by scanning QR codes or entering product details",
     img: "/verifyIt.png",
@@ -133,6 +120,21 @@ export const projects = [
       "/hardhat.svg",
     ],
     link: "https://verifyit.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "iNotes: Notes for all developer",
+    des: "iNotes is a notes taking / todos website for developers",
+    img: "/inotes.png",
+    iconLists: [
+      "/re.svg",
+      "/js.svg",
+      "/mongodb.svg",
+      "/node.svg",
+      "/ex.svg",
+      "/bootstrap.svg",
+    ],
+    link: "https://i-notes-rj.netlify.app",
   },
 ];
 
